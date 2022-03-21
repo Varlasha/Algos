@@ -1,3 +1,4 @@
+/*Задача «a+b^2»*/
 import mooc.EdxIO;
 
 public class Solution1 {
